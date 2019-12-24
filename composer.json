@@ -1,7 +1,7 @@
 {
-    "name": "zhangdi/template-sdk",
+    "name": "zhangdi/baidu-push-sdk",
     "type": "library",
-    "description": "Kernel for develop sdk",
+    "description": "百度推送SDK",
     "keywords": [],
     "license": "MIT",
     "authors": [
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ZhangDi\\Sdk\\": "src"
+            "ZhangDi\\BaiduPush\\": "src"
         }
     }
 }
